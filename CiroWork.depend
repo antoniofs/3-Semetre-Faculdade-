@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507377235 source:c:\users\anjun\desktop\cirowork\abb.c
+	"abb.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507377169 c:\users\anjun\desktop\cirowork\abb.h
+	<stdbool.h>
+
+1507377373 source:c:\users\anjun\desktop\cirowork\main .c
+	"abb.h"
+	<stdio.h>
+
